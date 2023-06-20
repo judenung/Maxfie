@@ -62,4 +62,5 @@ class GoogleController extends Controller
         // $signInResult1 = $auth->signInWithIdpAccessToken('google', $request->social_login_access_token);
         // dd($signInResult1);
     }
+
 }
